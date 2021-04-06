@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FileWatchServiceData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceDir>C:\Temp\LB\Test\Root\</SourceDir>
+  <DestinationDir>C:\Temp\LB\Test\Destination\</DestinationDir>
+  <MaxDegreeOfParallelism>3</MaxDegreeOfParallelism>
+  <TypeOfFilesToCopy>*.*</TypeOfFilesToCopy>
+  <PollInterval>5</PollInterval> <!-- second-->
+</FileWatchServiceData>
